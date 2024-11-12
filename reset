@@ -1,11 +1,6 @@
-[33mcommit 69a661806b73f0c5abae41448e263cfe46bdded5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
-Author: ErickMaklago <121603713+ErickMaklago@users.noreply.github.com>
-Date:   Tue Nov 12 11:00:22 2024 +0000
-
-    Adding the HTML and css files
-
-[33mcommit 9f3bc06f0d981f3fb443b12745a441b47e6e261a[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
-Author: ErickMaklago <121603713+ErickMaklago@users.noreply.github.com>
-Date:   Tue Nov 12 12:19:00 2024 +0300
-
-    Initial commit
+[33m25420da[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaklago/add-meta-tags[m[33m)[m added meta tags
+[33m6d01f58[m added title
+[33m4f72adb[m[33m ([m[1;32mmain[m[33m)[m updated version of code
+[33m0334500[m updated version
+[33m69a6618[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Adding the HTML and css files
+[33m9f3bc06[m Initial commit
